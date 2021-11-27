@@ -1,4 +1,4 @@
-var family_member_array=["Family.jpg", "Mother.png", "Father.png", "Child.png"];
+var family_member_array=["Family.jpg", "Mother.jfif", "Father.png", "Niti.jfif"];
 var family_names_array=["My Family", "Niti", "Alok", "Vimmlesh"];
 
 var i=0;
